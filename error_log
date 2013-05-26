@@ -1,0 +1,230 @@
+[07-Jan-2013 07:56:10] PHP Fatal error:  Class 'lib' not found in /home/jabouzic/public_html/contacts/index.php on line 6
+[07-Jan-2013 07:57:12] PHP Fatal error:  Class 'controller' not found in /home/jabouzic/public_html/contacts/index.php on line 7
+[07-Jan-2013 08:41:32] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 08:42:08] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 08:44:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 08:44:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 08:44:28] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 08:44:28] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 08:44:28] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 08:45:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 08:45:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 08:45:19] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 08:45:19] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 08:45:20] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 08:45:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 08:45:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 08:45:25] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 08:45:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 08:45:26] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 09:48:34] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:31:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:31:21] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:31:21] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:31:21] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:31:21] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:36:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:36:14] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:36:14] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:36:14] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:36:15] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:36:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:36:30] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:36:30] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:36:30] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:36:31] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:37:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:37:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:37:01] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:37:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:37:01] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:37:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:37:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:37:05] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:37:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:37:06] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:37:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:37:09] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:37:09] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:37:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:37:09] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:37:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:37:14] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:37:14] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:37:14] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:37:14] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:37:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:37:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:37:47] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:37:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:37:47] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:38:37] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:38:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:38:41] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:38:41] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:38:41] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:38:41] PHP Fatal error:  Call to undefined function  sh1() in /home/jabouzic/public_html/contacts.jabouzi.com/includes/lib.php on line 50
+[07-Jan-2013 12:38:41] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:39:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:39:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:39:16] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:39:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:39:16] PHP Fatal error:  Call to undefined function  sh1() in /home/jabouzic/public_html/contacts.jabouzi.com/includes/lib.php on line 51
+[07-Jan-2013 12:39:16] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:39:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:39:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:39:49] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:39:49] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:39:49] PHP Fatal error:  Call to undefined function  sh1() in /home/jabouzic/public_html/contacts.jabouzi.com/includes/lib.php on line 51
+[07-Jan-2013 12:39:49] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:40:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:40:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:40:26] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:40:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:40:26] PHP Fatal error:  Call to undefined function  sh1() in /home/jabouzic/public_html/contacts.jabouzi.com/includes/lib.php on line 51
+[07-Jan-2013 12:40:27] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:40:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'user'@'localhost' (using password: YES) in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 23
+[07-Jan-2013 12:40:40] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 24
+[07-Jan-2013 12:40:40] PHP Warning:  mysql_real_escape_string() expects parameter 2 to be resource, boolean given in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 29
+[07-Jan-2013 12:40:40] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/jabouzic/public_html/contacts.jabouzi.com/includes/mysql.php on line 34
+[07-Jan-2013 12:40:40] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:32] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:39] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:41] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:42] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:45] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:49] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:52] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 12:45:55] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[07-Jan-2013 15:57:59] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[09-Jan-2013 09:19:52] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[09-Jan-2013 11:55:38] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
+[10-Jan-2013 15:23:58] PHP Fatal error:  Uncaught exception 'SectionDoesntExistException' with message 'favicon.ico is not a valid module.' in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php:32
+Stack trace:
+#0 /home/jabouzic/public_html/contacts.jabouzi.com/index.php(10): controller->render()
+#1 {main}
+  thrown in /home/jabouzic/public_html/contacts.jabouzi.com/includes/controller.php on line 32
